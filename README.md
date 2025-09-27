@@ -1,4 +1,4 @@
 # firstRepo
 This is my First Repository in Github
 <br>
-Edited by -  Abdul Quyoom
+Edited by - Mr Abdul Quyoom
